@@ -1,6 +1,6 @@
-print("Hello boys and girls")
+print("Hello1 boys and girls")
 <<<<<<< HEAD
-print("Hello every one")
+print("Hello1 every one")
 =======
 print("Hello evry one")
 sum = 1+1
